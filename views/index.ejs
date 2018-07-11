@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        NLP
+    </title>
+    <script src="/assets/jquery.min.js"></script>
+    <script src="/assets/jquery.form.min.js"></script>
+    <link rel="stylesheet" href="/assets/bootstrap.min.css">
+    <script>
+        $(document).ready(function () {
+            $('#wikiDiv').hide();
+            $('#fileDiv').hide();
+
+            $('#textAreaXMLMsg').hide();
+            $('#textAreaQuesMsg').hide();
+
+            $('#textAreaXML').hide();
+            $('#textAreaQues').hide();
+            $('#loader').hide();
+
+            $('#myForm input').on('change', function () {
+                $('#resMsg').empty();
+                $('#textAreaXML').val('');
+                $('#textAreaXML').hide();
+                $('#textAreaQues').val('');
+                $('#textAreaQues').hide();
+                $('#textAreaXMLMsg').hide();
+                $('#textAreaQuesMsg').hide();
+                $('#loader').hide();
+
+                var radioValue = $('input[name="myRadio"]:checked', '#myForm').val();
+                if (radioValue == 1) {
+                    $('#fileDiv').hide();
+                    $('#wikiDiv').show();
+                }
+                if (radioValue == 2) {
+                    $('#wikiDiv').hide();
+                    $('#fileDiv').show();
+                }
+            });
+
+            $("#wikiSubmit").click(function () {
+                $('#resMsg').empty();
+                $('#textAreaXML').val('');
+                $('#textAreaXML').hide();
+                $('#textAreaQues').val('');
+                $('#textAreaQues').hide();
+                $('#textAreaXMLMsg').hide();
+                $('#textAreaQuesMsg').hide();
+                $('#loader').show();
+
+                $.ajax({
+                    url: 'http://localhost:3000/postUrl',
+                    type: 'POST',
+                    data: jQuery.param({
+                        "url": $('#urlInput').val()
+                    }),
+                    contentType: 'application/x-www-form-urlencoded; charset=UTF-8',
+                    success: function (response) {
+                        $('#loader').hide();
+                        if (response.statusCode == 200) {
+                            $('#urlInput').val('');
+                            $('#textAreaXMLMsg').html('<h3>XML INPUT</h3>');
+                            $('#textAreaXML').show();
+                            $('#textAreaXMLMsg').show();
+                            $('#textAreaXML').val(String(response.xmldata));
+
+                            $('#textAreaQuesMsg').html('<h3>Questions Generated</h3>');
+                            $('#textAreaQues').show();
+                            $('#textAreaQuesMsg').show();
+                            $('#textAreaQues').val(String(response.questions));
+                        } else {
+                            $('#resMsg').append('<h3>Error Occured</h3>');
+                            $('#resMsg').append(String(response.msg));
+                        }
+                    }
+                });
+            });
+
+            $('#fileUpload').on('submit', function (e) {
+                e.preventDefault();
+                $('#resMsg').empty();
+                $('#textAreaXML').val('');
+                $('#textAreaXML').hide();
+
+                $('#textAreaQues').val('');
+                $('#textAreaQues').hide();
+
+                $('#textAreaXMLMsg').hide();
+                $('#textAreaQuesMsg').hide();
+                $('#loader').show();
+
+                if ($('#fileInput')[0].files[0]) {
+                    $(this).ajaxSubmit({
+                        error: function (error) {
+                            $('#loader').hide();
+                            $('#resMsg').append('<h3>Error Occured</h3>');
+                            $('#resMsg').append(String(response.msg));
+                        },
+                        success: function (response) {
+                            $('#loader').hide();
+                            if (response.statusCode == 200) {
+                                $('#urlInput').val('');
+                                $('#textAreaXMLMsg').html('<h3>XML INPUT</h3>');
+                                $('#textAreaXML').show();
+                                $('#textAreaXMLMsg').show();
+                                $('#textAreaXML').val(String(response.xmldata));
+
+                                $('#textAreaQuesMsg').html('<h3>Questions Generated</h3>');
+                                $('#textAreaQues').show();
+                                $('#textAreaQuesMsg').show();
+                                $('#textAreaQues').val(String(response.questions));
+                            } else {
+                                $('#resMsg').append('<h3>Error Occured</h3>');
+                                $('#resMsg').append(String(response.msg));
+                            }
+                        }
+                    });
+                    //Very important line, it disable the page refresh.
+                    return false;
+                } else {
+                    $('#loader').hide();
+                    $('#resMsg').append('<h3>Error Occured</h3>');
+                    $('#resMsg').append(String('No File Selected'));
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+    <div class="container text-center" style="background:grey;color:white;">
+        <h1>NLP</h1>
+        <p>Natural Language Processing Project</p>
+    </div>
+    <div class="row">
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+        <div class="col-xs-8 col-sm-8 col-md-8 col-lg-8" style="text-align: center;">
+            <form id="myForm">
+
+                <h4>What will be your input:</h4>
+                <input type="radio" name="myRadio" value="1" /> Wikipedia Article Link
+                <br />
+                <input type="radio" name="myRadio" value="2" /> Local XML file Path
+                <br />
+            </form>
+            </br>
+            <div id="wikiDiv">
+                <input type="text" id="urlInput" placeholder="Please provide wikipdia url here"></input>
+                <button id="wikiSubmit">Submit</button>
+            </div>
+
+            <div id="fileDiv" class="center">
+                <form id="fileUpload" enctype="multipart/form-data" action="/postFile" method="post">
+                    <input type="file" id="fileInput" name="fileInput" style="margin-left: 40%" placeholder="Please provide xml path here" />
+                    </br>
+                    <input type="submit" value="Upload File" name="submit">
+                </form>
+            </div>
+
+            </br>
+            </br>
+            <h2 id="loader">
+                <font style="color:cadetblue">Loading...</font>
+            </h2>
+            <div id="resMsg"></div>
+        </div>
+
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2"></div>
+    </div>
+    <div class="row">
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+
+        </div>
+
+        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" style="text-align: center;">
+            <div id="textAreaXMLMsg"></div>
+            <textarea rows="10" cols="50" id="textAreaXML"></textarea>
+        </div>
+        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4" style="text-align: center;">
+            <div id="textAreaQuesMsg"></div>
+            <textarea rows="10" cols="50" id="textAreaQues"></textarea>
+        </div>
+        <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+
+        </div>
+    </div>
+    </br>
+    </br>
+    </br>
+    <footer class="container-fluid text-center ">
+        <!-- <p>IIIT-D Rhythm Nagpal</p> -->
+    </footer>
+
+</body>
+
+</html>

@@ -1,0 +1,347 @@
+1. Rahul is talking to his sister.
+Who is talking to his sister?
+What is Rahul talking to his sister?
+2. Following his horse-riding interests, he enlisted in 1915 in the Yeomanry, and was sent to the front in France in early 1916.
+Who enlisted in 1915 in the Yeomanry?
+In what did  he the Yeomanry?
+Who was sent to the front in France in early 1916?
+To what was and sent in France in early 1916?
+In what was  and to the front early 1916?
+What was and sent to the front in France in early 1916?
+3. The poet Rudyard Kipling lost his only son in the trenches in 1915.
+Who lost his only son in the trenches in 1915?
+In what did  The poet Rudyard Kipling his only son 1915?
+4. Given that our desires often conflict, it would be impossible for us to live in a society which imposed no limits whatsoever on what we do.
+Who Given that our often conflict?
+Who would be impossible for us to live in a society which imposed no limits whatsoever on what we do?
+For what would  it impossible to live in a society which imposed no limits whatsoever on what we do?
+What would it be impossible for us to live in a society which whatsoever on what we do?
+5. This shows the expansion of Rome's control through the third and second centuries BC, at the death of Augustus in AD 14, and at the end of Trajan's reign in AD 117.
+Who shows the expansion of Rome's control through the third and second centuries BC?
+Of what does  This shows the expansion Rome's through the third and second centuries BC?
+What does This  of Rome's control through third and second centuries BC?
+6. Although Goya's first major engraved series, Los Caprichos, went briefly on sale before being withdrawn, his later series, Disasters of War, was not published during his lifetime.
+Who went being withdrawn?
+On what   went briefly before being withdrawn?
+What  briefly on sale before  being withdrawn?
+7. This method was much used by astronomers towards the end of the sixteenth century, particularly by the great Danish astronomer Tycho Brahe, who was visited by a young friend of Napier, John Craig, in 1590.
+Who was much used by astronomers towards the end of the sixteenth century?
+By what did  This method much used towards the end of the sixteenth century?
+What did This method much used was by astronomers towards the end of the sixteenth century?
+8. And later in the same century the Roman Emperor Marcus Aurelius dispatched a trading mission by land which communicated directly with Huan-ti, the emperor of China.
+9. Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm the existence of trading links between China and the classical Mediterranean world.
+Who confirm existence trading links between China classical Mediterranean world?
+Of what do  Archaelogical discoveries and a bronze lamp in the Gulf Tongking and the Mekong Delta the existence trading links between China and the classical Mediterranean world?
+What do Archaelogical discoveries of Roman coins and a bronze lamp in the Gulf of Tongking and the Mekong Delta confirm trading links between China classical Mediterranean world?
+10. The unit for measuring frequency is the Hertz (Hz).
+Who measuring is the Hertz (Hz)?
+For what   The unit is the Hertz (Hz)?
+What  The unit for frequency is  the Hertz (Hz)?
+11. According to his official biography, Omidyar was seeking a way to use the Internet to create an efficient marketplace.
+Who was seeking a way to use the Internet to create an efficient marketplace?
+What was Omidyar seeking to use the Internet to create an efficient marketplace?
+12. Digital computers cannot store real numbers exactly.
+Who cannot store real numbers exactly?
+What  Digital computers not store  cannot exactly?
+13. ASC takes a character as input, and returns the integer giving the ASCII code of the input character.
+Who takes a character as input?
+As what does  ASC takes a character?
+What does ASC  as input?
+Who returns the integer giving the ASCII code of the input character?
+Of what does  and returns integer giving ASCII code?
+What does and  of input character?
+14. It is vital to be worried about information security because much of the value of a business is concentrated in the value of its information.
+Who is vital to be worried about information security because much of the value of a business is concentrated in the value of its information?
+About what does  It is vital to be worried because much of the value of a business is concentrated in the value of its?
+What does It  is vital to about information security because much of the value of a business is concentrated in the value of its information?
+15. The chaos after Hurricane Katrina did not cause a civilizational collapse; it simply exposed and magnified one that had already occurred.
+Who did not cause a civilizational collapse; it simply exposed and magnified one that had already occurred?
+After what did  The chaos not cause a civilizational collapse; it simply exposed and magnified one that had already occurred?
+What did The chaos after Hurricane Katrina not cause did collapse; it simply exposed and magnified one that had already occurred?
+16. Edinburgh reaches over the Firth of Forth with two great bridges, the photogenic Victorian Forth Rail Bridge and the slender 1960s Forth Road Bridge.
+Who reaches over the Firth of Forth with two great bridges?
+Over what does  Edinburgh reaches of Forth with two great bridges?
+Where does Edinburgh  reaches of Forth with two great bridges ?
+17. Plastics are further subdivided into thermoplastics and thermosets, the latter type being materials where the long chains are linked together by crosslinks, a feature they share with conventional vulcanized rubbers.
+Who are further subdivided into thermoplastics and thermosets?
+Into what do  Plastics further subdivided and thermosets?
+What do Plastics further subdivided are into thermoplastics and thermosets?
+Where do Plastics further subdivided are and thermosets ?
+Who being materials where long chains are linked together by crosslinks?
+By what   the latter type being materials where the long chains are linked together?
+What  the latter type  where long chains are linked together by crosslinks?
+18. Just after Columbus sailed across the Atlantic Ocean the Pope, asserting the 'right' to control non-Christian lands, drew a line to separate the spheres of influence of Spain and Portugal.
+Who Just sailed across the Atlantic Ocean the Pope?
+After what did  Just across the Atlantic Ocean the Pope?
+19. A pie chart is a way of presenting proportional data in the form of a circle, the 'pie'.
+Who is a way of presenting proportional data in the form of a circle?
+Of what does  A pie chart is a way proportional data in the form a circle?
+What does A pie chart  of presenting proportional data in the form of circle?
+20. In the last century, the population of the planet has risen from approximately 1.65 billion to somewhere in excess of 6.5 billion.
+Who has risen from approximately 165 billion to somewhere in excess 65 billion?
+Of what has  population from approximately 165 billion to somewhere in excess 65 billion?
+What has the population of the planet risen from approximately 165 billion to somewhere in excess 65 billion?
+21. Switzerland is the most famous example of direct democracy today, though the recall vote which led to Arnold Schwarzenegger becoming Governor of California is probably the biggest recent direct democracy event.
+Who is the most famous example of direct democracy today?
+Of what does  Switzerland is the most famous example?
+What does Switzerland  of direct democracy today?
+Who though the recall vote which led to becoming is probably the biggest recent direct democracy event?
+To what  Arnold Schwarzenegger Governor of California is probably  though the recall vote which led becoming the biggest recent direct democracy event?
+Though what   which led to Arnold Schwarzenegger becoming Governor of California is probably biggest recent direct democracy event?
+What  Arnold Schwarzenegger Governor of California is probably  though the recall vote which led to the biggest recent direct democracy event?
+22. There are approximately 8,000 people and over 500 Chinese businesses across Northern Ireland.
+23. During the Cretaceous (65-147 Ma) the whole Earth was up to +15°C warmer than at present, with tropical forests covering Antarctica, whereas during the Quaternary (~2 Ma) ice sheets spread across much of Europe and the mean surface temperature was up to 5°C colder than at present.
+Who During Cretaceous (65-147 Ma) was up to +15°C warmer than at present?
+During what did  (65-147 Ma) whole Earth up to +15°C warmer than at present?
+Who with covering Antarctica?
+With what   ?
+What  tropical forests  with?
+Who whereas during the Quaternary (~2 Ma) spread across much of Europe and the mean surface temperature was up to 5°C colder than at present?
+To what do ice sheets spread whereas during the Quaternary (~2 Ma) across much of Europe and the mean surface temperature was up colder than at present?
+During what do  whereas (~2 Ma) ice sheets across much of Europe and mean surface temperature was up to 5°C colder than at present?
+24. Earthquakes mainly occur when the different blocks or plates that make up the Earth's surface move relative to each other (Figure 2a), causing distortion in the rock (Figure 2b).
+Who mainly occur when the different blocks or plates that make up the Earth's surface move relative to each other (Figure 2a)?
+To what do Earthquakes mainly occur when the different blocks or plates that make up the Earth's surface move relative other (Figure 2a)?
+What do Earthquakes mainly occur when different blocks or plates that Earth's to each other (Figure 2a)?
+25. Following the advent of the Hubble Space Telescope with its superior resolution of individual stars, it became possible in 1996 to extend Cepheid-based measurements as far as a galaxy known as M100, in the Virgo cluster, yielding a distance of 5.6 × 107 ly.
+Who became possible in 1996 to extend Cepheid-based measurements as far as a galaxy known as M100?
+In what did  it possible to extend Cepheid-based measurements as far as a galaxy known as M100?
+What did it became possible in 1996 to as far as a galaxy known as M100?
+26. The 1864 Geneva Convention followed, where 12 nation states agreed to respect the community of military hospitals and their staff, to care for sick and wounded soldiers whatever their nationality and to respect the emblem of the Red Cross.
+Who The 1864 followed?
+Who where 12 agreed to respect the community of military hospitals and their staff?
+Of what did  where 12 nation states to respect the community and their staff?
+What did nation states agreed where 12 to of military hospitals and their staff?
+Who to care for wounded soldiers whatever their nationality to respect the emblem of the Red Cross?
+Of what did  to care for sick and soldiers whatever their nationality and to respect emblem?
+What did sick and wounded to care for whatever their nationality to respect the emblem of the Red Cross?
+27. The most notable attempts to make thorough descriptions of language occurred in the USA at the beginning of the twentieth century when anthropologists sought to describe North American Indian languages which were disappearing as English became more powerful.
+28. Striking a tuning fork causes its prongs to vibrate, but very little sound is produced because the prongs move back and forth through the air without particularly disturbing it.
+Who Striking causes its prongs to vibrate?
+What  a tuning fork causes  its prongs to vibrate?
+29. When William the Conqueror and his Normans came to Britain in the eleventh century, a vast number of words, derived both from Norman French and from written Latin, entered English.
+Who derived written Latin?
+From what   derived both and written Latin?
+Who is Norman French?
+Whom both from Norman French and from written  ?
+What  both from Norman French and from written  Latin?
+30. In a similar mood of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille, the medieval fortress and prison of Paris, on 14 July 1789.
+Who In aggrieved self-righteousness and revolutionary exultation came the fall the Bastille?
+In what   of aggrieved self-righteousness and revolutionary exultation came the fall of the Bastille?
+What  a similar mood of  In and revolutionary exultation came the fall the Bastille?
+31. The ancient city of Thugga is often known by its modern name, Dougga.
+Who is often known by its modern name?
+Of what does  The ancient city is often known by its modern name?
+What does The ancient city of Thugga often known  by its modern name?
+32. The first film in the franchise was originally released on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture phenomenon, spawning two immediate sequels, released at three-year intervals.
+Who was originally released on May 25?
+In what did  The first film originally released on May 25?
+What did The first film in the franchise originally released was on May 25?
+Who became a worldwide pop culture phenomenon?
+What did and became ?
+33. The James Bond film series are film adaptations inspired by Ian Fleming's novels about the fictional MI6 agent James Bond (codename 007).
+Who are adaptations inspired by Ian Fleming's novels about the fictional MI6 agent (codename 007)?
+By what do  The James Bond film series film adaptations inspired Fleming's about the fictional MI6 agent James Bond (codename 007)?
+What do The James Bond film series are by Ian Fleming's novels about the fictional MI6 agent (codename 007)?
+34. Caine's acting career began in Horsham, Sussex.
+Who Caine's acting began in Horsham?
+In what   Caine's acting career began?
+Who is Caine?
+Whom Caine 's career began  ?
+What  Caine 's career began  Caine's in Horsham?
+35. After 1840, the Irish arrived in large numbers, in part because of the famines of the 1840s.
+Who arrived in large numbers?
+In what did  the Irish?
+36. The Republic of Ireland covers five-sixths of the island.
+Who covers five-sixths the island?
+Of what does  The Republic covers five-sixths the island?
+What does The Republic of Ireland  the island?
+37. With a total area of about 106.4 million square kilometres (41.1 million square miles), it covers approximately one-fifth of the Earth's surface and about one-quarter of its water surface area.
+Who covers approximately one-fifth of the Earth's surface and about one-quarter of its water surface area?
+Of what does  it covers approximately one-fifth Earth's and about one-quarter its water area?
+38. Tolkien had one sibling, his younger brother, Hilary Arthur Reuel, who was born on 17 February 1894.
+Who had one sibling?
+Who is Tolkien?
+Whom Tolkien had ?
+What did Tolkien had ?
+39. The Sun is a G-type main sequence star comprising about 99.86% of the total mass of the Solar System.
+Who is a G-type main sequence star comprising about 9986% of the total mass of the Solar System?
+About what does  The Sun is a G-type main sequence star comprising 9986% of the total mass of the Solar System?
+What does The Sun  about 9986% of the total mass of the Solar System?
+40. The first hydrogen-filled balloon was invented by Jacques Charles in 1783.
+Who was invented by Jacques Charles in 1783?
+By what was  The first hydrogen-filled balloon in 1783?
+What was The first hydrogen-filled balloon invented by Jacques Charles in 1783?
+41. Human activities since the start of the industrial era around 1750 have increased the levels of greenhouse gases in the atmosphere.
+42. Since the invention of the first Voltaic pile in 1800 by Alessandro Volta, the battery has become a common power source for many household and industrial applications.
+Who has become a common power source for many household and industrial applications?
+For what has  the battery a common power source and industrial applications?
+What has the battery become for many household and industrial applications?
+43. Based on the Japanese surname Dictionary issued in July 1996, there are 291,129 different surnames in Japan.
+Who Based on issued in July 1996?
+On what did  Based in July 1996?
+44. An adult male weighs around 350 - 680 kg (770 - 1,500 lb), while an adult female is about half that
+Who weighs around 350 - 680 kg (770 - 1,500 lb)?
+Around what do  An adult male - 680 kg (770 - 1,500 lb)?
+Who is about half that?
+While what does  is about half that?
+45. The word "lava" comes from Italian, and is probably derived from the Latin word labes which means a fall or slide.
+Who is probably derived from the Latin word labes which means a fall or slide?
+From what does  and is probably derived which means a fall or slide?
+What does and probably derived  from the Latin word labes which means a fall or slide?
+46. Two important variables used for the classification of igneous rocks are particle size, which largely depends upon the cooling history, and the mineral composition of the rock.
+Who Two used for the classification of igneous rocks are particle size?
+For what   Two important variables used of igneous rocks are particle size?
+What  important variables  Two used for the classification of igneous rocks?
+47. The UN's most visible public figure is the Secretary-General, currently Ban Ki-moon of South Korea, who attained the post in 2007.
+48. Vienna is the capital of the Republic of Austria and one of the nine states of Austria.
+Who is the capital of the Republic of Austria and one of the nine states of Austria?
+Of what does  Vienna is capital Austria and one nine states Austria?
+What does Vienna  of Republic of Austria and one of nine states of Austria?
+49. The World Bank is one of two institutions created at the Bretton Woods Conference in 1944.
+Who is one of two institutions created at the Bretton Woods Conference in 1944?
+Of what does  The World Bank is one at the Bretton Woods Conference in 1944?
+What does The World Bank  of two institutions created at the Bretton Woods Conference in 1944?
+50. The Ford Motor Company was launched in a converted factory in 1903 with $28,000 in cash from twelve investors, most notably John and Horace Dodge (who would later found their own car company).
+Who was launched in a converted factory in 1903 with $28,000 in cash from twelve investors?
+In what was  The Ford Motor Company 1903 with $28,000 cash from twelve investors?
+What was The Ford Motor Company launched in a converted factory in 1903 with $28,000 in cash from twelve investors?
+51. In March 2009, Blackstone Group CEO Stephen Schwarzman said that up to 45% of global wealth had been destroyed in little less than a year and a half.
+Who said that up to 45% of global wealth had been destroyed in little less than a year and a half?
+To what did Blackstone Group CEO Stephen Schwarzman said that up 45% of global wealth had been destroyed in little less than a year and a half?
+Of what did  Blackstone Group CEO Stephen Schwarzman that up to 45% had been destroyed in little less than a year and a half?
+What did Blackstone Group CEO Stephen Schwarzman said that up to 45% of global wealth in little less than a year and a half?
+52. The current editor is Geraldine Kennedy, who succeeded Conor Brady in 2002.
+Who is Geraldine Kennedy?
+What does The current editor  ?
+53. Although it is often thought of as a British native wild flower, or to have been brought to the British Isles by the Romans, it was probably introduced around the early sixteenth century.
+Who is often thought of as a British native wild flower?
+Although what does  is often thought of as a British native wild flower?
+What does Although it often thought  of as a British native wild flower?
+Who or to have been brought to the British Isles by the Romans?
+To what been  brought or have by Romans?
+By what been  or to have to British Isles Romans?
+What been  brought or to to the British Isles by the Romans?
+Who was probably introduced around the early sixteenth century?
+Around what did  it probably introduced?
+What did it probably introduced was around the early sixteenth century?
+54. The cabinet succeeded the third Balkenende cabinet following the 2006 election, and was installed by Queen Beatrix on 22 February 2007.
+Who succeeded the third Balkenende following the 2006 election?
+What did The cabinet succeeded ?
+Who was installed by Queen Beatrix on 22 February 2007?
+By what was  and on 22 February 2007?
+Who is Queen Beatrix?
+Whom and installed ?
+What was and installed by Queen Beatrix on 22 February 2007?
+55. The largest in terms of total mass is the giant moray (Gymnothorax javanicus), which reaches almost 3 metres (9.8 ft) and can weigh over 36 kilograms (79 lb).
+Who The largest in terms of is the giant moray (Gymnothorax javanicus)?
+In what does  The largest of total mass is the giant moray (Gymnothorax javanicus)?
+What does total mass  The largest in terms of (Gymnothorax javanicus)?
+Who which reaches almost 3 metres (98 ft) can weigh over 36 kilograms (79 lb)?
+Over what can  which reaches almost 3 metres (98 ft) and (79 lb)?
+What can and weigh which (98 ft) over 36 kilograms (79 lb)?
+56. Hence, sometimes, as we age and the slippery tissue in between our joint breaks down and wears away, bone spurs may form in along the edges of the joints.
+Who as we age and the slippery tissue in between our down and wears away?
+As what   and the slippery tissue in between our joint breaks down and wears away?
+Who may form in along the edges of the joints?
+Along what may  bone spurs of joints?
+57. Prevent sandbur from returning to these areas by applying a pre-emergent herbicide containing trifluralin or eptam in early spring.
+Who returning to these areas by applying a pre-emergent herbicide containing trifluralin or eptam in early spring?
+To what  Prevent sandbur from  returning by applying a pre-emergent herbicide containing trifluralin or eptam in early spring?
+From what   Prevent sandbur to these areas by applying a pre-emergent herbicide containing trifluralin or eptam in early spring?
+What  Prevent sandbur from  returning to these areas by or eptam in early spring?
+58. I'm sure their fans would rather stay up and not win the UEFA Cup than be relegated and win the UEFA Cup.
+Who I'm sure their fans would rather stay up and not win the UEFA Cup than be relegated and win the UEFA Cup?
+What do I 'm I'm sure their fans would rather stay up and than be relegated and?
+59. You can buy a data transfer cable about 10 pounds $15 from online shops.
+Who can buy a data transfer cable about 10 pounds $15 from online shops?
+About what can  You a data transfer cable $15 from online shops?
+What can You buy about 10 pounds $15 from online shops?
+60. If you shoot a mid-size photo with "normal" resolution, you might even be able to get about a thousand on the card.
+Who shoot a mid-size photo with "normal" resolution?
+If what do  a mid-size photo with "normal" resolution?
+What do If you shoot with "normal" resolution?
+Who might even be able to get about a thousand on the card?
+About what   you might even be able to get on the card?
+61. Unix is the best memory management Operating system , there are many derivatives of Unix , Linux is the new kid on the block. 
+Who is the best memory management Operating system?
+What does Unix  ?
+Who is the new kid on the block?
+On what does  Linux is new kid?
+What does Linux  on block?
+62. The integrated Intel chipset video cards will not give you the performance you want out of WoW even with 4 GB of RAM.
+Who will not give you the performance you want out of WoW even with 4 GB of RAM?
+Of what   The integrated Intel chipset video cards will not give you the performance you want even with 4 GB RAM?
+What  The integrated Intel chipset video cards not give  want out of WoW even with 4 GB of RAM?
+63. DNA research shows that the inhabitants of Ireland came from Spain in prehistoric times.
+Who shows that the inhabitants of Ireland came from Spain in prehistoric times?
+That what does  DNA research shows of Ireland came from Spain in prehistoric times?
+64. I'll say that Eiffel Tower helped Paris to become number 1 romantic place.
+Who I'll say that Eiffel Tower helped Paris to become number 1 romantic place?
+That what 'll  I'll helped Paris to become number 1 romantic place?
+What 'll I say I'll that Eiffel Tower to become number 1 romantic place?
+65. The Mars rover's solar panels only provide enough power to move less than 1 MPH and go a maximum distance of a few hundred feet in a whole day.
+66. People are more likely to be attacked by a captive killer whale than be attacked by a wild one.
+Who are more likely to be attacked by a captive killer whale than be attacked by a wild one?
+By what do  People more likely to be attacked than be attacked wild one?
+What do People more are likely to by a captive killer whale than by a wild one?
+67. It is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency.
+Who is also very likely that your laptop is not capable of working with Windows XP as a result of insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency?
+Of what does  It is also very likely that your laptop is not capable with Windows XP as a result insufficient system resources on your laptop which is one reason why your laptop is not preforming at its optimum proficiency?
+What does It also very  likely that your laptop not capable of working with Windows XP as a result of insufficient system resources on your laptop which why your laptop not preforming at its optimum proficiency?
+68. Feed with a high first number fertilizer in the spring.
+69. I used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and on and on with that routine.
+Who used to be a hair dresser so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and on and on with that routine?
+With what did  I to be a hair dresser so continue and get it trimmed an inch or two every few weeks and keep and and that routine?
+What did I used to so continue on with the straightening and get it trimmed an inch or two every few weeks and keep straightening and on and on with that routine?
+70. I do not think Australia is infamous for poor medical facilities so I would not be worried about paralysis.
+Who do not think Australia is infamous for poor medical facilities so would not be worried about paralysis?
+For what do  I not think Australia is infamous so I would not be worried about paralysis?
+What do I not think do is infamous for poor medical facilities so would be worried about paralysis?
+71. Rabies is not contracted by the consumption of food, regardless of whether it is clean or not.
+Who is not contracted by the consumption of food?
+By what does  Rabies is not contracted of food?
+What does Rabies not contracted  by the consumption of food?
+Who regardless is clean or not?
+Whether what does  regardless is clean or not?
+72. Montenegro is a potential candidate for membership in the European Union and uses the Euro. 
+Who is a potential candidate for membership in the European Union and uses the Euro?
+For what does  Montenegro is a potential candidate in the European Union and uses the Euro?
+What does Montenegro  for membership in the European Union and uses the Euro?
+73. Here in Italy most students take some English classes, but other than language classes, lessons are in Italian here and in the native tongue in other countries.
+Who Here in Italy take some English classes?
+In what do  Here most students some English classes?
+What do most students take Here in Italy?
+Who are in Italian here and in the native tongue in other countries?
+In what do  lessons Italian here and other countries?
+74. Yes, all instruments for Guitar Hero are compatible with all Rock Band games, and vice versa.
+Who are compatible with Rock Band games?
+For what do  all instruments compatible with all Rock Band games?
+75. Also, a good book about Queen is, As It Began which is cowritten by Jacky Gunn Smith who is the president of the Queen International Fan Club.
+Who is?
+About what does  a good book is?
+76. Kleenoff - you had to wear gloves because it contained caustic soda or something
+Who Kleenoff - had to wear gloves because it contained caustic soda or something?
+Because what did  Kleenoff - you to wear gloves contained caustic soda or something?
+What did you had Kleenoff - to because it contained caustic soda or something?
+77. In Australia you no longer can buy the ordinary incandescent globes, as you probably already know.
+Who no longer can buy the ordinary incandescent globes?
+In what can  no longer the ordinary incandescent globes?
+What can In Australia you no longer buy ?
+Who probably already know?
+As what do  probably already?
+78. Their ancestors migrated through the middle east and near east into Europe,beginning some 30-40 thousand years ago.
+Who Their migrated through the middle east and near east into Europe,beginning some 30-40 thousand years ago?
+Through what   Their ancestors migrated and near into Europe,beginning some 30-40 thousand years ago?
+What  ancestors  Their migrated through the middle east and near east into Europe,beginning ago?
+Where  ancestors  Their migrated through the middle and near Europe,beginning some 30-40 thousand years ago ?
+79. Sell your wii and get a PS3, you will find how pathetic the wii is in a short time.
+Who Sell your get a PS3?
+What do wii and get Sell your?
+Who will find how pathetic the wii is in a short time?
+In what will  you how pathetic the wii is?
+80. There are several 'theme parks' in the UK.
+81. Usually the dealer has to hit until they get 17.
+Who Usually has to hit until they get 17?
+Until what does  Usually the dealer has to hit get 17?
+What does the dealer  has to hit until they get 17?
